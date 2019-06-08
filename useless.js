@@ -1,5 +1,5 @@
 const useless=()=>{
-    console.log('you just wasted some time to lear');
+    console.log('you just wasted some time to learn');
     
 }
 
